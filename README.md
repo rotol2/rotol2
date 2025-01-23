@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   
     
 ### 🔨using🔨
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corineS2&layout=compact"><br><br>
