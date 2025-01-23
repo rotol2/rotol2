@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   
 ### 🤍visitor🤍
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcorineS2%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frotol2%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 
   
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corineS2&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=corineS2&show_icons=true">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=.corineS2%20&fontSize=60)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=.rotol2%20&fontSize=60)
