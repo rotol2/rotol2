@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotol2&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=corineS2&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rotol2&show_icons=true">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=.rotol2%20&fontSize=60)
